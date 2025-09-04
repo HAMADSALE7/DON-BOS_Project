@@ -336,8 +336,9 @@ section {
 }
 
 .triangle:hover {
-    transform: scale(1.2);
-    background: #48ffe7;
+    
+    transform: translatey( 12px);
+    background: #00ffc3;
     border: 7px solid rgb(255, 255, 255);
 }
 
@@ -773,4 +774,5 @@ footer {
     .links.active {
         display: block;
     }
+
 }
